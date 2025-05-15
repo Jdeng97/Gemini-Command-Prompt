@@ -19,3 +19,5 @@ Run the program using "node script.js"
 
 exit the program by typing "exit"
 
+Your Chat history will be saved automatically in a file name "chat_history.txt" in the project folder.
+
