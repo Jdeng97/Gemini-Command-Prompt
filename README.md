@@ -14,5 +14,8 @@ A command-line chat program using Google Gemini API that lets you interact with 
 
 -----
 Install dependencies using "npm install " 
+
 Run the program using "node script.js"
+
 exit the program by typing "exit"
+
